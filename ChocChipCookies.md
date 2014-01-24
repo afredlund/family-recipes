@@ -23,4 +23,4 @@
 7.  Bake for 9-10 minutes or just until edges are light brown.  (Okay, it might depend on the oven, but I leave them in until I see just a little brown on the top and then take them out.  They cook for a little longer on top of the stove.)
 
 
-### Only make these once a month at the most, otherwise beware of extreme obesity ###
+### Only make these once a month at the most, otherwise extreme obesity may occur###
