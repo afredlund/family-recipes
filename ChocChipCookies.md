@@ -1,4 +1,4 @@
-# Chocolate Chip Cookies
+# Chocolate Chip Cookies - Brian Felegy recipe
 
 ###**INGREDIENTS**
 1 cup (2 sticks) softened butter
