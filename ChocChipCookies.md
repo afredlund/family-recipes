@@ -1,6 +1,6 @@
 # Chocolate Chip Cookies
 
-**INGREDIENTS**
+##**INGREDIENTS**
 1 cup (2 sticks) softened butter
 1/2 cup granulated sugar
 1 1/2 cups packed brown sugar
@@ -12,7 +12,7 @@
 1 teaspoon baking soda
 2 12oz bags Guittard milk chocolate chips 
 
-**Directions**
+##**Directions**
 
 1.  Preheat the oven to 350 degrees.
 2.  In a large mixing bowl, cream together the butter, sugars, eggs and vanilla.
