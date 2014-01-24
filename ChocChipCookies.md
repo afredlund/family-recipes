@@ -16,9 +16,11 @@
 
 1.  Preheat the oven to 350 degrees.
 2.  In a large mixing bowl, cream together the butter, sugars, eggs and vanilla.
-3.  In another bowl, mix together the flour, salt, baking powder and baking soda.
+3.  In another bowl, mix together the flour, salt, baking powder and baking soda
 4.  Combine the wet and dry ingredients.
 5.  Stir in the chocolate chips.
 6.  With your fingers, place golf ball-sized (or a little bigger) dough portions 2 inches apart on an ungreased cookie sheet.
 7.  Bake for 9-10 minutes or just until edges are light brown.  (Okay, it might depend on the oven, but I leave them in until I see just a little brown on the top and then take them out.  They cook for a little longer on top of the stove.)
 
+
+### Only make these once a month at the most, otherwise beware of extreme obesity ###
